@@ -1,2 +1,2 @@
-# SecondVersion
-second version with JS
+# active-pet
+без js не реализовать 
